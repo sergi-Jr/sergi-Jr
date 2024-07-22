@@ -10,6 +10,23 @@ I've been studying code for over 4 years. I have been developing on .NET using C
 * ✉️  You can contact me at [burashnikov.sergei@gmail.com](mailto:burashnikov.sergei@gmail.com)
 * 🧠  I'm learning Spring Framework
 
+  At my last job I used the 1C stack in conjunction with the familiar C#. During the work I achieved the following results:
+- Created an application accelerating and automating the process of collecting requests and messages from customers (TelegramBotAPI, 1C, .NET, MSSQL)
+- Created an API layer simplifying the work of the company's employees with electronic document flow of third-party services (1C, .NET).
+- Revision and refactoring of a part of the code base, which had a technical debt of more than 3 years.
+- Splitting a part of the monolithic code into modules for future developers (1C)
+
+To learn programming and the Java language:
+- Hexlet courses (java developer)
+- Open educational internet sources (metanit.com/java rush/baeldung etc)
+  
+Books:
+- “Clean Code” R. Martin (always in progress ;) )
+- “Code Complete” S. McConnell (in progress)
+- “Java. The Complete Reference” H. Schildt
+- “Spring in action” C. Walls (in progress)
+- “Spring Security” L. Spilca (in progress)
+
 ### Skills
 
 
