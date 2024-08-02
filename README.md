@@ -21,11 +21,11 @@ To learn programming and the Java language:
 - Open educational internet sources (metanit.com/java rush/baeldung etc)
   
 Books:
-- “Clean Code” R. Martin (always in progress ;) )
-- “Code Complete” S. McConnell (in progress)
+- “Clean Code” R. Martin
+- “Code Complete” S. McConnell
 - “Java. The Complete Reference” H. Schildt
-- “Spring in action” C. Walls (in progress)
-- “Spring Security” L. Spilca (in progress)
+- “Spring in action” C. Walls
+- “Spring Security” L. Spilca
 
 ### Skills
 
