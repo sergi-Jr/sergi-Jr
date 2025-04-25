@@ -4,7 +4,7 @@ Hi 👋 My name is Sergey Burashnikov
 Java Backend Developer
 ----------------------
 
-I've been studying code for over 4 years. I have been developing on .NET using C#. Now I decided to change the language to Java.
+I've been studying code for over 5 years. I have been developing on .NET using C#. Now I decided to change the language to Java.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [burashnikov.sergei@gmail.com](mailto:burashnikov.sergei@gmail.com)
